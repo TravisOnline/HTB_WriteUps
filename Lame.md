@@ -39,7 +39,7 @@ Samba 3.0.20 is open on port 445. Quickly googling CVE-2007-2447 lets us know th
 Honestly, at this point I went ahead and exploited this vulnerability right away without checking for other vulnerabilities.
 *--------------------------------------------------------------------------------------------------------------------------------------------------------*
 
-## Exploitation
+## Foothold
 
 After having a further look at this CVE online, I found that there was a tool that essentially automates the initialization of a remote shell using this version of Samba.
 
